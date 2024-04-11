@@ -17,19 +17,19 @@
     font-size: 16px;
 }
 
-.Madagascar-imagem{
+.madagascar-imagem{
     width: 25%;
 }
 
 .madagascar{
     background-image: linear-gradient (#424E61, #16CFF8);
-    color: white;
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
 }
 
-.Madagascar-div-conteudo{
+.madagascar-div-conteudo{
     width: 35%;
 }
