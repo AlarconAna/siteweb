@@ -24,11 +24,11 @@
     font-size: 16px;
     }
     
-    .escola-imagem{
+    .madagascar-imagem{
     width: 25%;
     }
     
-    .escola{
+    .madagascar{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
     display: flex;
@@ -49,4 +49,4 @@
     
     .madagascar-titulo{
     padding: 24px 0;
-    }
+  }
