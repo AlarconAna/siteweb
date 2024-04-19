@@ -29,7 +29,7 @@
     }
     
     .madagascar{
-    background-image: linear-gradient(#424E61,#16CFF8);
+      background-color: #faeb16;
     color:white;
     display: flex;
     justify-content: center;
